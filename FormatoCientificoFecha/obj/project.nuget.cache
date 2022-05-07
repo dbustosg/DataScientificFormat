@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lX7+eKaXqpRzCgFbpDPCGmr9gQzMMfQj90YeMKU8cpjNjytNpt0aNjZttyS/+MNaBUMGdrA+a1zfG6IImbg2lQ==",
+  "success": true,
+  "projectFilePath": "D:\\Desarrollo_Interfaces\\FormatoCientificoFecha\\FormatoCientificoFecha\\FormatoCientificoFecha.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dani\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}
